@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sree Sravya Kota  
 
-💻 **Data Engineer & Full Stack Developer** | 🎓 Computer & Data Science Student at UW–Madison (GPA: 3.88)  
+💻 **Data Engineer & Full Stack Developer** | 🎓 Computer & Data Science Student at UW–Madison
 
 I’m passionate about building scalable data systems, optimizing pipelines, and creating intuitive applications. With experience across **data engineering, cloud platforms, and full stack development**, I thrive at the intersection of data and software.  
 
