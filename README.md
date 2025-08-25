@@ -36,24 +36,6 @@ Git · Machine Learning (YOLOv5, scikit-learn, caret, tidyverse, matplotlib, ggp
 - Enhanced actuarial APIs and upgraded applications from **.NET 6 → .NET 8**, strengthening system security and developer workflow.  
 - Built **UI + API updates** across Angular, .NET, and SQL for a customer portal serving 5,000+ annuity clients.  
 
-### 🔬 Undergraduate Research Assistant *(Sep – Dec 2022)*  
-- Built & deployed a **YOLOv5 model** for real-time trash detection with **85%+ mAP** across 10+ litter categories.  
-- Applied **data augmentation** on 1,500+ images to improve generalization under varying conditions.  
-
----
-
-## 📊 Projects  
-
-**🔹 Heart Disease Prediction Analysis**  
-- Applied **logistic regression & statistical inference** in R/Python to predict risk factors.  
-- Built visualizations with **ggplot2, matplotlib, and RMarkdown** to present insights.  
-
----
-
-## 🏅 Awards & Achievements  
-- 🎖️ Dr. Titli Prasad Memorial Scholarship – $5000 for academic excellence  
-- 🎓 Dean’s List – Fall 2021, Spring 2022, Fall 2024, Spring 2025  
-
 ---
 
 ## 📚 Coursework  
